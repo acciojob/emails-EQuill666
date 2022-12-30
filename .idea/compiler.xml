@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="vehicles-solution" />
+        <module name="emails-EQuill666" />
         <module name="vehicles-driver-code" />
         <module name="java-assignment-testing-solution" />
       </profile>
